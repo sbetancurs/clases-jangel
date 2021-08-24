@@ -1,2 +1,6 @@
 Clase 1:
 -Leer sobre React Hooks.
+-Destructuring en JS.
+-JSX.
+-useEffect.
+-Promises.
